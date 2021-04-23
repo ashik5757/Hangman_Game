@@ -1,5 +1,7 @@
 # Hangman_Game
 
+This is my first C project. In this project, my collaborator was Mehedi Al Murteja.
+
 ### Game Rules :
 
 1. You have to guess the letter of the word one by one
