@@ -4,10 +4,11 @@
     Second to last all lines are the word list.
     
     You can add more words if you want.( Up to 100 )
+### Example : File--(1_seasons.txt)
 
 * Name_of_SEASONS -- HINTs for word
 * SUMMER     
 * MONSOON     
-* WINTER         } Word List
+* WINTER -----------} Word List
 * SPRING       
 * AUTUMN          
