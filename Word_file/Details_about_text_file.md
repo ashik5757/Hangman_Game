@@ -7,8 +7,8 @@
 ### Example : File--(1_seasons.txt)
 
 * Name_of_SEASONS -- HINTs for word
-* SUMMER     
-* MONSOON     
-* WINTER -----------} Word List
-* SPRING       
-* AUTUMN          
+* SUMMER  -----------} Word 
+* MONSOON -----------} Word     
+* WINTER -----------} Word
+* SPRING -----------} Word      
+* AUTUMN -----------} Word         
