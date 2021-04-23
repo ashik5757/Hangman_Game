@@ -2,6 +2,8 @@
 
 #### Follow the steps properly otherwise files may not be work. 
 	    
+	Download the "file_zip.zip" file. (All text file)
+	
 	You have to put all text file in the same folder with "Hangman.c" file (Filename may not be same)  
 		
 	--OR--
