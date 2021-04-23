@@ -2,7 +2,7 @@
 
 This is my first C project. In this project, my collaborator was Mehedi Al Murteja.
 
-    ### Game Rules : 
+    Game Rules : 
     
     1. You have to guess the letter of the word one by one
     2. You will get 6 wrong chances for every word.
