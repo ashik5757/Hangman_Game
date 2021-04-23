@@ -12,3 +12,5 @@
 	[NOTE : This is just a example ]
 	
 You will find the same comment in the main code; 
+
+## Read the Details.md file for the details about text files
