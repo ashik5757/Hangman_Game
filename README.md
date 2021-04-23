@@ -8,4 +8,4 @@
 4. If you complete 10 words, you'll win.
 5. If you want to kill the man,just type 'kill' and game will end. (But your earned score will be 0)
 
-## Read all the Details and README files inside the folders, if you don't want to face any technical errors.
+## If you don't want to face any technical errors, read all the Details and README files in the folders.
