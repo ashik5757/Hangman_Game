@@ -6,8 +6,8 @@
     You can add more words if you want.( Up to 100 )
 
 * Name_of_SEASONS -- HINTs for word
-* SUMMER
-* MONSOON
-* WINTER       } Word List
-* SPRING
-* AUTUMN
+* SUMMER     
+* MONSOON     
+* WINTER         } Word List
+* SPRING       
+* AUTUMN          
