@@ -11,3 +11,9 @@ This is my first C project. In this project, my collaborator was Mehedi Al Murte
     5. If you want to kill the man,just type 'kill' and game will end. (But your earned score will be 0)
 
 ## If you don't want to face any technical errors, read all the Details and README files in the folders.
+
+<br/>
+
+## Screenshot :
+
+
