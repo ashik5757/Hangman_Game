@@ -16,4 +16,19 @@ This is my first C project. In this project, my collaborator was Mehedi Al Murte
 
 ## Screenshot :
 
+![image](https://user-images.githubusercontent.com/81816852/136185433-82dc6903-32b4-4fff-8706-00aab0ce187d.png)
+
+![image](https://user-images.githubusercontent.com/81816852/136185925-3060a481-04cc-461f-af6a-7c0acc494fae.png)
+
+![image](https://user-images.githubusercontent.com/81816852/136186187-b9e9f93e-c4b7-41ff-94b8-3b034b726a62.png)
+
+![image](https://user-images.githubusercontent.com/81816852/136186281-1ea875ad-d3e7-4b1c-bd38-a9146a81198e.png)
+
+![image](https://user-images.githubusercontent.com/81816852/136186776-2febbeb5-2250-4a35-bcfa-66c58ed268ca.png)
+
+![image](https://user-images.githubusercontent.com/81816852/136187153-441155e3-e409-4108-bf75-32b42c4850db.png)
+
+![image](https://user-images.githubusercontent.com/81816852/136187193-f57705bf-4c83-437c-b2b8-d38aaa4ac04e.png)
+
+
 
